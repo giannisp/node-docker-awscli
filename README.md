@@ -2,7 +2,7 @@
 
 ## Description
 
-Custom docker image for CI purposes.
+Custom docker image for CI purposes, hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-docker-awscli/).
 
 ### Features
 
