@@ -1,11 +1,13 @@
 ## giannisp/node-docker-awscli
 
-## Description
+### Description
 
-Custom docker image for CI purposes, hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-docker-awscli/).
+Custom docker image for CI purposes.
+Hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-docker-awscli/).
 
 ### Features
 
+- Debian (Jessie) base image
 - Node 8.9.3
 - Docker CE
 - AWS CLI
