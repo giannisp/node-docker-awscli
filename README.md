@@ -12,3 +12,5 @@ Hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-docker-awscli/).
 - Docker CE
 - AWS CLI
 - Git LFS
+- jq
+- npm-deps
