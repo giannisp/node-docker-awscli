@@ -11,3 +11,4 @@ Hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-docker-awscli/).
 - Node 8.9.3
 - Docker CE
 - AWS CLI
+- Git LFS
