@@ -8,7 +8,7 @@ Hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-docker-awscli/).
 ### Features
 
 - Debian (Jessie) base image
-- Node 8.9.3
+- Node 8.11.3
 - Docker CE
 - AWS CLI
 - Git LFS
